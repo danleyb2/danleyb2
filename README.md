@@ -7,5 +7,5 @@ I'm **Nyaundi Brian**, a freelance computer programmer and open source contribut
 - 🌱 I’m currently learning Rust and Typescript
 - 📫 Contact me at danleyb2@gmail.com. Check out my [homepage and blog](https://danleyb2.online/) 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danleyb2&hide=html,css&langs_count=7)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danleyb2&hide=html,css,roff&langs_count=8)
 ![danleyb2's github stats](https://github-readme-stats.vercel.app/api?username=danleyb2&show_icons=true&count_private=true&line_height=40)
